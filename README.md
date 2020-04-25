@@ -1,5 +1,4 @@
 # A12
-<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -67,7 +66,7 @@
         </aside>
 	</main>    
 	<footer>
-		<p>&copy; 2018, San Joaquin Valley Town Hall, Fresno, CA 93755</p>
+		<p>&copy; Arun Sandhu A12 Homework Assignment</p>
 	</footer>
 </body>
 </html>
